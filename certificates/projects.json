@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Udemy C Programming Course",
+    "desc": "Completed a comprehensive C programming course on Udemy, gaining foundational knowledge in procedural programming.",
+    "image": "C-lang-Udemy",
+    "category": "courses",
+    "links": {
+      "view": "https://www.udemy.com/your-c-course-link",
+      "code": "https://github.com/your-github-profile/c-projects"
+    }
+  },
+  {
+    "name": "Udemy C++ Course",
+    "desc": "Completed a C++ course on Udemy, exploring object-oriented programming principles and advanced C++ features.",
+    "image": "C++Udemy",
+    "category": "courses",
+    "links": {
+      "view": "https://www.udemy.com/your-cpp-course-link",
+      "code": "https://github.com/your-github-profile/cpp-projects"
+    }
+  },
+  {
+    "name": "Scalar DBMS Course",
+    "desc": "Learned database management systems (DBMS) concepts and SQL through Scalar's online course.",
+    "image": "DBMS-Scalar",
+    "category": "courses",
+    "links": {
+      "view": "https://www.scalar.com/your-dbms-course-link",
+      "code": "https://github.com/your-github-profile/dbms-projects"
+    }
+  },
+  {
+    "name": "LetsUpgrade Git Course",
+    "desc": "Mastered version control using Git through LetsUpgrade's hands-on course.",
+    "image": "Git-Lets",
+    "category": "courses",
+    "links": {
+      "view": "https://letsupgrade.in/your-git-course-link",
+      "code": "https://github.com/your-github-profile/git-exercises"
+    }
+  },
+  {
+    "name": "Java Bootcamp",
+    "desc": "Participated in a Java bootcamp, gaining practical experience in Java programming and software development.",
+    "image": "Java-Bootcamp",
+    "category": "courses",
+    "links": {
+      "view": "https://www.your-bootcamp-link.com",
+      "code": "https://github.com/your-github-profile/java-projects"
+    }
+  },
+  {
+    "name": "Scalar Python Course",
+    "desc": "Completed a Python course on Scalar, focusing on data structures, algorithms, and Python programming best practices.",
+    "image": "Python-Scalar",
+    "category": "courses",
+    "links": {
+      "view": "https://www.scalar.com/your-python-course-link",
+      "code": "https://github.com/your-github-profile/python-projects"
+    }
+  },
+  {
+    "name": "Udemy Python Course",
+    "desc": "Explored Python programming through an Udemy course, covering topics from basic syntax to advanced concepts.",
+    "image": "Python-Udemy",
+    "category": "courses",
+    "links": {
+      "view": "https://www.udemy.com/your-python-course-link",
+      "code": "https://github.com/your-github-profile/python-exercises"
+    }
+  }
+]
