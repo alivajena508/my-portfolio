@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 👤 - Aliva Jena
 📧 - [Email](livajena508@gmail.com)
 🔗 - [LinkedIn](https://www.linkedin.com/in/aliva-jena-217359333?)
-🌐 - [Portfolio Website](#)
+🌐 - [Portfolio Website](https://alivajena508.github.io/my-portfolio/)
 
 I am a Computer Science Engineering (CSE) student based in
             Bhubaneswar Odisha , India. I am currently pursuing my B.Tech
